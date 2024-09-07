@@ -6,7 +6,7 @@ int main(){
     cout << "Enter a number: ";
     cin >> n;
 
-    cout << "Hello World" << n;
+    cout << "Hello World" << ".The number is: "<<n;
     
     
     return 0;
